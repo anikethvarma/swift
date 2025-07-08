@@ -1,0 +1,31 @@
+.header-bg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.header-icon{
+    height: 60px;
+}
+
+.header-profile-bg{
+    display: flex;
+    align-items: center;
+}
+
+.header-profile-pic{
+   background-color: black;
+   border-radius: 20px;
+   padding: 10px;
+   color: #ffffff;
+   font-weight: bold;
+}
+
+.header-profile-name{
+    margin-left: 10px;
+}
